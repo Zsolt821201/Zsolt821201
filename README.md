@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zsolt821201
+- 👋 Hi, I’m Zsolt
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
